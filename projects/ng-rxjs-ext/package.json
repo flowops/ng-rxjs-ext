@@ -1,10 +1,12 @@
 {
   "name": "ng-rxjs-ext",
   "version": "0.0.2",
-  "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14",
+  "dependencies": {
     "jmespath": "^0.15.0",
     "ramda": "^0.27.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
   }
 }
