@@ -1,6 +1,6 @@
 {
   "name": "ng-rxjs-ext",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "jmespath": "^0.15.0",
     "ramda": "^0.27.0"
